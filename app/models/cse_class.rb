@@ -1,0 +1,2 @@
+class CseClass < ApplicationRecord
+end
